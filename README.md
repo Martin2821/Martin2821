@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Martin2821
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning about everything
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on anything to improve my skills
+- 📫 How to reach me: halodamartin@gmail.com
 
 <!---
 Martin2821/Martin2821 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
